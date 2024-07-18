@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: antiquewhite;
+}
+
+
+
+.libro, .carrito-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+.libro:hover, .carrito-item:hover {
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* .libro1{
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/A1ULI3MovqL.jpg);
+    background-size: 20%;
+    background-position-x: right;
+    background-repeat: no-repeat;
+}
+
+.libro2{
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/A1ULI3MovqL.jpg);
+    background-size: 20%;
+    background-position-x: right;
+    background-repeat: no-repeat;
+} */
